@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alecx Adrian De la Cruz Lopez</h1>
-<h3 align="center">Enthusiastic developer to undertake new challenges!!</h3>
+<h3 align="center">Enthusiastic developer ready to undertake new challenges!!</h3>
 
 - 🔭 I’m currently working on **Canvia**
 
