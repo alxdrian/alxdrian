@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alecx Adrian De la Cruz Lopez</h1>
 <h3 align="center">Enthusiastic developer to undertake new challenges!!</h3>
 
-- 🌱 I’m currently learning **VueJS and React Native**
+- 🔭 I’m currently working on **Canvia**
+
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **build a better world through solutions for digital experiencies.**
 
