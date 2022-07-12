@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alecx Adrian De la Cruz Lopez</h1>
 <h3 align="center">Enthusiastic developer ready to undertake new challenges!!</h3>
 
-- 🔭 I’m currently working on **Canvia**
+- 🔭 I’m currently working on **Bsale**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Redis and Microservices**
 
 - 🤝 I’m looking for help with **build a better world through solutions for digital experiencies.**
 
-- 💬 Ask me about **ReactJS, Ruby or Rails.**
+- 💬 Ask me about **ReactJS, Ruby on Rails.**
 
 - 📫 How to reach me **alecxdelacruzlopez@gmail.com**
 
