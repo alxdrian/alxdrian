@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bootic**
 
-- 🌱 I’m currently learning **Dockers**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking for help with **build a better world through solutions for digital experiencies.**
 
